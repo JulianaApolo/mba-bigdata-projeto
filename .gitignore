@@ -1,0 +1,9 @@
+oracle_wallet/
+logs/
+plugins/
+__pycache__
+*.pyc
+.env
+crontab.log
+testes/
+.DS_Store
